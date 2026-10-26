@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi from main deveoper
 More work by man developer
+=======
+Hi from main developer
+>>>>>>> 60de099d1c0feaec2236f81394f2790432beaad2
+Second commit
